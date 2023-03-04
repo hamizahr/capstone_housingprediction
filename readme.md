@@ -28,10 +28,10 @@ I tested the models with linear regression and random forest regressor. Random f
 
 The model was then deployed to a UI platform, the platform in use is streamlit for usability.
 
-|Model|Test R^2 Score | Test RMSE |
-|---|---|---|---|
-|Linear Regression | 0.795 | 72,969.34 | 
-|Random Forest Regressor | 0.905 | 45,204.75 |
+Model | Test R^2 Score | Test RMSE 
+--- |--- | ---
+Linear Regression | 0.795 | 72,969.34 
+Random Forest Regressor | 0.905 | 45,204.75 
 
 
 ### Conclusion
